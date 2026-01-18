@@ -151,6 +151,9 @@ Focus areas:
   <a href="mailto:nuno89ferreira@gmail.com">
     <img src="https://img.shields.io/badge/Email-Open%20to%20Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://wa.me/351930511187" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
+  </a>
   <a href="https://nunosilvaferreira.github.io/wdd231/portfolio.html" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Projects-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
